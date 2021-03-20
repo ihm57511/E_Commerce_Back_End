@@ -15,7 +15,7 @@ router.get('/', async (req, res) => {
       res.status(404).json({ message: 'No products found!' });
       return;
     }
-    res.statur(200).json(productData);
+    res.status(200).json(productData);
   } catch (err) {
     res.status(500).json(err);
   }
