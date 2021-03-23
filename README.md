@@ -5,8 +5,7 @@
      
   ## Image Of Deployed Application
   ![E-Commerce Back End](images/ECom.png)  
-     
-  **[Link To Broken Heroku Application](https://guarded-caverns-05916.herokuapp.com/)**   
+       
     
   *[Link To Category Video]( https://drive.google.com/file/d/13jiGYt5D7CkrR2qJIuO_Yi5shgHDzOxX/view)*  
   *[Link To Product Video]( https://drive.google.com/file/d/1VCECNVCPCLVVSlMkGE5TFsRq5R981UUx/view)*  
