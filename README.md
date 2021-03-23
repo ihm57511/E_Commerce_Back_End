@@ -4,11 +4,12 @@
   This project provides server, database, and routing functionality for an E-Commerce website.  
      
   ## Image Of Deployed Application
-  ![E-Commerce Back End](images/ECom.png)  
-       
+  ![E-Commerce Back End](images/ECom.png)   
+     
+  ## [Link to Application deployed at Heroku](https://guarded-caverns-05916.herokuapp.com/)
     
-  *[Link To Category Video]( https://drive.google.com/file/d/13jiGYt5D7CkrR2qJIuO_Yi5shgHDzOxX/view)*  
-  *[Link To Product Video]( https://drive.google.com/file/d/1VCECNVCPCLVVSlMkGE5TFsRq5R981UUx/view)*  
+  *[Link To Category Video](https://drive.google.com/file/d/13jiGYt5D7CkrR2qJIuO_Yi5shgHDzOxX/view)*  
+  *[Link To Product Video](https://drive.google.com/file/d/1VCECNVCPCLVVSlMkGE5TFsRq5R981UUx/view)*  
   *[Link To Tag Video](https://drive.google.com/file/d/1EMPy4oxb9yeXS4dVECK9vhv5AU_pBKqI/view)*   
      
   ## Table of Contents   
